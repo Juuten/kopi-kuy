@@ -1,0 +1,134 @@
+{
+    
+
+    "Arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "150 ml",
+            "harga": "67.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso",
+            "size": "30 ml",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 ml",
+            "harga": "65.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://mistercoffee.com.my/wp-content/uploads/2018/12/1.1.arabica-768x768.jpg",
+            "nama": "Arabica Beans",
+            "size": "500 gram",
+            "harga": "350.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "Robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu Robusta",
+            "size": "150 ml",
+            "harga": "53.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 ml",
+            "harga": "59.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://assets.teenvogue.com/photos/5a9722c91710f94783e99f43/master/w_1600%2Cc_limit/starbucks-hazelnut-mocha-coconut-milk-macciato-01.jpg",
+            "nama": "Macchiato Robusta",
+            "size": "150 ml",
+            "harga": "54.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://saribaguscoffee.kopibalikintamani.com/wp-content/uploads/2020/07/robustakg.jpg",
+            "nama": "Robusta Beans",
+            "size": "500 gram",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "Nonkopi": [
+        {
+            "foto": "https://nadiashealthykitchen.com/wp-content/uploads/2016/09/vanilla-matcha-latte.jpg",
+            "nama": "Matcha Latte",
+            "size": "150 ml",
+            "harga": "55.000",
+            "link": "#"
+        },
+
+        {
+            "foto": "https://sugaryums.co.uk/wp-content/uploads/2022/03/Thai-Milk-Tea-SugarYums-7.jpg",
+            "nama": "Thai Tea Pearl",
+            "size": "150 ml",
+            "harga": "54.000",
+            "link": "#"
+        },
+
+        {
+            "foto": "https://i.pinimg.com/originals/27/cc/c0/27ccc073eb8e0521aeefa2fca3eb2017.jpg",
+            "nama": "Red Velvet Latte",
+            "size": "150 ml",
+            "harga": "55.000",
+            "link": "#"
+        },
+
+        {
+            "foto": "https://s2.glbimg.com/Hld9LZ3yU7L3nqiO9AlN16bGBAk=/0x0:300x420/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2013/02/20/21_16_49_406_gelado_de_chocolate_da_lanchonete_da_cidade_1295030819042_300x420.jpg",
+            "nama": "cocholate Milkshake",
+            "size": "150 ml",
+            "harga": "55.000",
+            "link": "#"
+        }
+    ],
+
+    "Main Course": [
+        {
+            "foto": "https://st3.depositphotos.com/1027198/14485/i/950/depositphotos_144857921-stock-photo-delicious-french-fries.jpg",
+            "nama": "French Fries",
+            "size": "250 gram",
+            "harga": "52.000",
+            "link": "#"
+        },
+
+        {
+            "foto": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Baked-Chicken-and-Mushrooms_EXPS_DSBZ17_22740_B01_13_4b-1.jpg",
+            "nama": "Chicken Mushroom",
+            "size": "350 gram",
+            "harga": "67.000",
+            "link": "#"
+        },
+
+        {
+            "foto": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Blue-Ribbon-Beef-Nachos_EXPS_THJJ21_12416_B02_10_9b.jpg",
+            "nama": "Beef Nachos",
+            "size": "350 ml",
+            "harga": "85.000",
+            "link": "#"
+        },
+
+        {
+            "foto": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps33439_FF163882B01_14_4b-1.jpg",
+            "nama": "Cheese Crust",
+            "size": "350 ml",
+            "harga": "59.000",
+            "link": "#"
+        }
+    ]
+    
+
+    
+}
